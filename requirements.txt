@@ -1,0 +1,20 @@
+install python from google
+Open cmd as administrator and run one by one
+if you getting any error massage me
+
+pip install pyttsx3
+pip install SpeechRecognition
+pip install pynput
+pip install pyautogui
+pip install wikipedia
+pip install opencv-python
+pip install mediapipe
+pip install comtypes
+pip install pycaw
+pip install screen-brightness-control
+pip install eel
+pip install pyjokes
+pip install pywhatkit
+pip install datetime
+pip install os
+pip install listener
